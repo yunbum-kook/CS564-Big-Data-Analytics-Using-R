@@ -1,0 +1,17 @@
+from  to  friendship
+"Alice" "Bob"  3
+"Alice" "Elmer"  5
+"Alice" "Cecil" 3
+"Alice" "Gabri" 5
+"Bob"  "Cecil"  2
+"Bob"  "Hani"  5
+"David" "Hani" 5
+"David" "Bob" 4
+"Elmer" "Hani" 2
+"Farad" "Gabri" 2
+"Gabri" "David" 2
+"Hani" "Ian" 3
+"Ian" "Bob" 4
+"Jim"  "Farad" 5
+
+

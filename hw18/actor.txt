@@ -1,0 +1,11 @@
+name age sex
+ "Alice" 25 "F"
+ "Bob" 28 "M"
+ "Cecil" 27 "F"
+ "David" 24 "M"
+ "Elmer" 26 "F"
+ "Farad" 25 "M"
+ "Gabri" 21 "F"
+ "Hani" 29 "F"
+ "Ian"  26 "F"
+ "Jim"  27 "M"
